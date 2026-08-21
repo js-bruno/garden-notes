@@ -33,3 +33,4 @@ hobbie low budget -> jardinagem ?
     - [] Comecar um canal no youtube onde eu possa falar e ensinar alguma coisa.
     - [] fazer o soviet_pc subir uma live no youtube facilmente com nix,
     - [] criar uma radio no youtube.
+    - [] criar um nota de rotina de escrita para esse valut -<
