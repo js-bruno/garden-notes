@@ -1,0 +1,1 @@
+https://drunkenanimeblog.com/2018/09/05/gosick-so-many-doppelgangers/
