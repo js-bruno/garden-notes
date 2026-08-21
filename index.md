@@ -25,3 +25,11 @@ para gastar menos tempo "procurando coisa para consumir" e ficar de uma forma se
 hobbie low budget -> jardinagem ?
 
 # Organiar notas acimas
+
+
+# TODO de coisas pra fazer e subir antes de deixar esse site publicop
+    - [] Procurar uma ferramenta de edicao facil de mecher e que eu consiga editar e deixar uma foto [[ditcher]]
+    - [] Padrozinar estetica do thisdev.space, talvez colocar em um figma e criar as telas por la para ter um padrao
+    - [] Comecar um canal no youtube onde eu possa falar e ensinar alguma coisa.
+    - [] fazer o soviet_pc subir uma live no youtube facilmente com nix,
+    - [] criar uma radio no youtube.
