@@ -4,19 +4,18 @@ quartz-properties: true
 quartz-properties-collapse: false
 ---
 
-OLA eu sou o *bruno(***this_dev***)*, subi esse domino com quartz para 
-expor minhas anotacoes, ideias e tutorias para melhorar a minha escrita e a minha capacidade de criar um conteudo relevante e de facil acesso
+eui , subi esse domino com quartz para 
+expor minhas anotacoes, ideias e tutorias para melhorar a minha escrita e a minha capacidade de criar um conteudo relevante e
+de facil acesso a min mesmo por meio de anotaceos, memorias ou backlinks -> ['backlinks'](https://obsidian.md/help/plugins/backlinks)
 
 
 >[!info] Work In Progress
->
->Esse dominio ainda reflete 100% das minhas notas por enquanto ainda e um espaco onde eu homologo as mihnas anotacoes.
-
+>Esse dominio sofre um serio desgante com o tempo, farei as manutencoes dessas notas apenas quando tiver vontade...
 
 ultimamente venho sentimento de estagnacao de consumo de conteudo, sinto que nao consigo mais consumir algo por mais de 10 min e etc, por isso quero 
 comecer a criar conteudo algum tipo de conteudo e esse site vai me ajudar a organizar o que quero fazer, o que ? ainda nao sei
 
- comprar hub para colocar o SD no computador (wii e camera)
+comprar hub para colocar o SD no computador (wii e camera)
 
 vou comecar limitando o conteudo que eu consumo, excluindo a maioria dos algoritmos de recomendacao
 vou tentar usar mais rss e pinar os canais que eu acompanho frequenteme e as coisas que eu leio
@@ -34,3 +33,6 @@ hobbie low budget -> jardinagem ?
     - [] fazer o soviet_pc subir uma live no youtube facilmente com nix,
     - [] criar uma radio no youtube.
     - [] criar um nota de rotina de escrita para esse valut -<
+
+
+# SITE VAI ESTAR PRONTO QUANDO TUDO ACIMA ESTIVER ORGANIZADO <
