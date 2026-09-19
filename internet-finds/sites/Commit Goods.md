@@ -1,1 +1,15 @@
-[commitgoods](https://commitgoods.com/?_su_rec=SMfKSz-CnNqeynF2brjE0864EVrtK_nECnQVMFIu1jidj4p0VDEJejcIx0rt0otMeBnn-xRkvqNeXUChJ7DxqH_pWOJaDaVzsfp9z5aI8l6Bu3eDtYVmFbbTe9Ht35luaRhhJ5G4yaQqbgtG0m2eAwdy-CEq08qsPyypBbt4ssmlE1ZF51uR62zqiK8KHqq6hH3YecIfDzP0iG9IFE0dae4C1gPzvEXb4j-98Gvzz3bTg4NSWSI-LJgu3G-2s-KItEM&_su_rec_id=a694405a-3adc-4880-9cee-fe0a73f58878-1786920851)
+---
+title: Commit Goods
+tags:
+  - find/site
+  - indieweb
+description: "Achado: commitgoods.com."
+---
+
+https://commitgoods.com/
+
+> [!question] gap
+> Só o link, sem uma linha do que é. Cabe descrever se é loja, blog, coletivo —
+> é justamente o tipo de semente que vira um dia uma [[internet-finds]] descrita.
+
+See also: [[blogroll.org]], [[homebrew.cresentri.com]], [[internet-finds]]

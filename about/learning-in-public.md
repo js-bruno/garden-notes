@@ -1,4 +1,13 @@
-# Aprender em público
+---
+title: Aprender em público
+aliases:
+  - learning-in-public
+  - Aprender em Público
+tags:
+  - fruit
+  - learning-in-public
+description: Aprender em público é mostrar o que estamos aprendendo enquanto aprendemos.
+---
 
 Aprender em público é mostrar o que estamos aprendendo enquanto aprendemos.
 
@@ -45,3 +54,20 @@ Com o tempo, uma nota curta pode se transformar em um guia completo.
 Aprenda uma coisa, registre o que descobriu e compartilhe.
 
 Não espere saber tudo. Comece com o que você sabe agora.
+
+---
+
+## De onde isto veio
+
+Este texto foi escrito antes de existir um [[method]] formal neste jardim. Os
+cinco passos de "Como começar" são uma versão comprimida do **Gibbs' Reflective
+Cycle** (1988), e "Não tente parecer perfeito" é o **Protégé Effect** na prática:
+ensinar é o que faz aprender, e o leitor não precisa de um especialista —
+precisa de alguém um passo à frente.
+
+swyx chegou no mesmo lugar por outro caminho em
+[*Learn In Public*](https://www.swyx.io/learn-in-public): *"by far the biggest
+beneficiary of you trying to help past you is future you."*
+
+See also: [[method]], [[consume-less-produce-more]], [[writing-routine]],
+[[youtube-channel]], [[now]]

@@ -1,4 +1,14 @@
+---
+title: broider
+tags:
+  - find/tool
+  - design
+  - webdev
+description: Bordas muito estilizadas.
+---
+
 https://maxbittker.github.io/broider/
 
+bordas muito estilizadas
 
-bordas muito estilizadas s
+See also: [[astral_python]], [[gruvbox-wallpapers.pages]], [[design-system]], [[internet-finds]]
