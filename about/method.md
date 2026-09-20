@@ -178,24 +178,17 @@ Nota sem link de saída é nota que o grafo não vê.
 
 ## 6. O ciclo completo
 
-```
-   consome algo
-        │
-        ▼
-   seeds/  ────────────── captura sem fricção, pode ser só uma pergunta
-        │
-        ▼
-   saplings/  ─────────── Feynman 1: ensina sem jargão
-        │                 Feynman 2: acha o gap  →  [!question] gap
-        │                 volta à fonte
-        │                 Feynman 3: analogia
-        ▼
-   fruits/  ───────────── Feynman 4: ensina de verdade (publica / grava)
-        │
-        ▼
-   logs/  ─────────────── revisão semanal, active recall
-        │
-        └───────────────▶ o que falhou volta pra fila
+```mermaid
+flowchart TD
+    C(["consome algo"]) --> Seed["🌱 seeds/<br/>captura sem fricção — pode ser só uma pergunta"]
+    Seed --> Sap["🌿 saplings/<br/>um conceito por nota"]
+    Sap --> F1["Feynman 1 — ensina sem jargão"]
+    F1 --> F2["Feynman 2 — acha o gap → volta à fonte"]
+    F2 --> F3["Feynman 3 — cria analogia"]
+    F3 --> Fruit["🌳 fruits/<br/>Feynman 4 — ensina de verdade"]
+    Fruit --> Logs["logs/<br/>revisão semanal, active recall"]
+    Logs -->|"o que falhou volta pra fila"| Sap
+    Logs -->|"novo consumo"| C
 ```
 
 E em paralelo, `projects/` é onde Bloom chega em `Create` — o [[self-hosted-habbo-server]]

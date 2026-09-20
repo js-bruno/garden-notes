@@ -5,12 +5,13 @@ quartz-properties-collapse: false
 description: Hub do jardim — mapa de entrada para tudo que cresce aqui.
 ---
 
-subi esse domino com quartz para
-expor minhas , ideias e poucos tutorias para melhorar a minha escrita e a minha capacidade de criar um conteudo relevante e
-de facil acesso a min mesmo por meio de anotaceos, memorias ou backlinks -> ['backlinks'](https://obsidian.md/help/plugins/backlinks)
+Opa tudo certo !?
+eu sou o Z
+subi esse domino com quartz para expor minhas ideias e amadurecelas em publico e para criar tutorias para melhorar a minha escrita e a minha capacidade de criar um conteudo relevante e
+de facil acesso para min mesmo por meio de anotacoes, memorias e backlinks -> ['backlinks'](https://obsidian.md/help/plugins/backlinks)
 
 > [!info] Work In Progress
-> Esse dominio sofre um serio desgante com o tempo, farei as manutencoes dessas notas apenas quando tiver vontade...
+> Esse dominio sofre sofre de constantes mudancas tempo, farei as manutencoes dessas notas apenas quando tiver tempo e vontade...
 
 ---
 
@@ -39,6 +40,50 @@ about/          o próprio jardim
 
 Pastas marcam **estágio**, não tópico. Tópico vem de tags e links —
 o motivo está em [[method]].
+
+## Mapa
+
+```mermaid
+flowchart TD
+    H(["🏡 thisdev.notes"])
+
+    H --> M["method"]
+    H --> N["now"]
+    H --> L["learning-in-public"]
+    H --> C["consume-less-produce-more"]
+    H --> IF["internet-finds"]
+    H --> P["self-hosted-habbo-server"]
+    H --> Seeds["🌱 seeds"]
+    H --> Sap["🌿 saplings"]
+
+    IF --> IF1["sites"]
+    IF --> IF2["cool web tools"]
+    IF --> IF3["cool_articles"]
+
+    Seeds --> S1["rss-over-algorithms"]
+    Seeds --> S2["shrine"]
+    Seeds --> S3["design-system"]
+    Seeds --> S4["youtube-channel"]
+    Seeds --> S5["ditcher"]
+
+    Sap --> SA1["selfhost"]
+
+    click M "/about/method" "Como este jardim funciona"
+    click N "/logs/now" "O que está em andamento"
+    click L "/about/learning-in-public" "Aprender em público"
+    click C "/saplings/consume-less-produce-more" "Consumir x produzir"
+    click IF "/internet-finds/" "Mapa de achados"
+    click P "/projects/self-hosted-habbo-server" "Build log"
+    click IF1 "/internet-finds/sites/" "Sites catalogados"
+    click IF2 "/internet-finds/cool-web-tools/" "Ferramentas"
+    click IF3 "/internet-finds/cool_articles/" "Artigos"
+    click S1 "/seeds/rss-over-algorithms" "RSS no lugar do algoritmo"
+    click S2 "/seeds/shrine" "Shrine"
+    click S3 "/seeds/design-system" "Design system"
+    click S4 "/seeds/youtube-channel" "Canal no YouTube"
+    click S5 "/seeds/ditcher" "Editor de imagem"
+    click SA1 "/saplings/selfhost" "Self-hosting"
+```
 
 ## Sementes plantadas
 
